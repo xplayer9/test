@@ -2,7 +2,7 @@ package com.git;
 
 public class Spring {
     String title;
-    int count = 0;
+    String note;
     public Spring(String s) {
         title = s;
     }
